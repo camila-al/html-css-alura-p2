@@ -1,2 +1,10 @@
 header {
-   background:
+   background: #BBBBBB;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-trasform: uppercase;
